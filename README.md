@@ -1,4 +1,4 @@
-🛒 Customer Behavior Analysis – Retail Case Study
+# 🛒 Customer Behavior Analysis – Retail Case Study
 📌 Project Overview
 A leading retail company wants to better understand its customers' shopping behavior to improve sales, customer satisfaction, and long‑term loyalty.
 This project analyzes consumer shopping data to uncover key drivers of purchase decisions and repeat buying patterns, with a focus on discounts, reviews, seasons, and payment preferences.
