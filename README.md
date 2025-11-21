@@ -20,15 +20,10 @@ How can the company leverage consumer shopping data to identify trends, improve 
 - Ran queries to identify customer segments, loyalty patterns, and purchase drivers
 - Visualization & Insights (Power BI)
 - Interactive dashboard highlighting trends across demographics, product categories, and sales channels
-- Key metrics: repeat purchase rate, discount effectiveness, seasonal trends
+- **Key metrics:** repeat purchase rate, discount effectiveness, seasonal trends
 - Report & Presentation
 - Summarized findings and recommendations for management
 - Visual storytelling of insights for non‑technical stakeholders
-- GitHub Repository
-- Python scripts (/src/python)
-- SQL queries (/src/sql)
-- Power BI dashboard files (/dashboard)
-- Final report & presentation (/docs)
 
 **🚀 Key Insights**
 - Discounts and reviews strongly influence first‑time purchases.
